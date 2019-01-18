@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/dungeon.unity
+    guid: 80eb16d77b0742149bdce6ae04bb8c36
+  - enabled: 1
+    path: Assets/Scenes/overworldStart.unity
+    guid: 7e31029f7eee8ee44abc3b0dbdf5b29b
+  - enabled: 1
+    path: Assets/Scenes/pyramidLevel.unity
+    guid: 1e93cb3e08e53f1469e18d1819240c16
+  - enabled: 1
+    path: Assets/Scenes/pyramidArena.unity
+    guid: bcd2b350c97b32e44a2f7f3854d80041
+  m_configObjects: {}
